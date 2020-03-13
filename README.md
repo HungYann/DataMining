@@ -11,11 +11,11 @@
    Monitoring the oil price, correlate with the currency exchanges, and predict what will be the oil price
 
 
-
 - Participants:
 
-- 17043640/1 Gunasegarran
-- 17201091/1 LIU,HONGYANG
+17043640/1 Gunasegarran
+
+17201091/1 LIU,HONGYANG
 
 
 
