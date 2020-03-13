@@ -2,20 +2,22 @@
 
 
 
-### 1.Introduction
+### 1.Assignemnt Title
+
+> Introduction
 
 ![image-20200313143244318](https://tva1.sinaimg.cn/large/00831rSTgy1gcsafj84etj311y0sggr3.jpg)
 
-- Title
+> Title
 
    Monitoring the oil price, correlate with the currency exchanges, and predict what will be the oil price
 
 
-- Participants:
+> Participants:
 
-17043640/1 Gunasegarran
+- 17043640/1 Gunasegarran
 
-17201091/1 LIU,HONGYANG
+- 17201091/1 LIU,HONGYANG
 
 
 
