@@ -34,6 +34,10 @@
 [goldCrawler](https://github.com/LIU-HONGYANG/DataMining/blob/master/milestone1/goldCrawler/goldCrawler.py)
 
 
+
+
+
+
 > Video
 
-[milestone1]()
+[milestone1](https://drive.google.com/file/d/1KrrsCMB0a2NQ_mDKLDcw9Ky1hAwy11aB/view)
