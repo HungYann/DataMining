@@ -8,7 +8,15 @@ create table oilCrawl(Index STRING,Year STRING,AverageClosingPrice STRING,YearOp
 
 
 
-2. 
+2. check the table 
+
+
+
+```mysql
+describe oilCrawl
+```
+
+
 
 3. load data into hdfs
 
@@ -17,8 +25,6 @@ create table oilCrawl(Index STRING,Year STRING,AverageClosingPrice STRING,YearOp
 ```mysql
 hdfs dfs -copyFromLoacl ~/Desktop/oilCrawl.txt /usr/oilCrawl
 ```
-
-
 
 
 

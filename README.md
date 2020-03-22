@@ -42,5 +42,13 @@
 
 [milestone1](https://drive.google.com/file/d/1KrrsCMB0a2NQ_mDKLDcw9Ky1hAwy11aB/view)
 
-[milestone2]()
+
+
+
+
+### 3. Milestone 2
+
+[Introduction](https://github.com/LIU-HONGYANG/DataMining/blob/master/milestone2/milestone2.md)
+
+[Video]()
 
