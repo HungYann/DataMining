@@ -36,8 +36,6 @@
 
 
 
-
-
 > Video
 
 [milestone1](https://drive.google.com/file/d/1KrrsCMB0a2NQ_mDKLDcw9Ky1hAwy11aB/view)
@@ -48,11 +46,26 @@
 
 ### 3. Milestone 2
 
-[Introduction](https://github.com/LIU-HONGYANG/DataMining/blob/master/milestone2/milestone2.md)
 
-[Video](https://drive.google.com/file/d/18vyKY6-kyZlftohUxmn7V6H6wn8nmkAI/view)
+
+##### Introduction https://github.com/LIU-HONGYANG/DataMining/blob/master/milestone2/milestone2.md
+
+##### Video https://drive.google.com/file/d/18vyKY6-kyZlftohUxmn7V6H6wn8nmkAI/view
 
 
 
 ![results-screenshot](https://tva1.sinaimg.cn/large/00831rSTgy1gd2w96zc4ij30wk0lq43g.jpg)
 
+
+
+
+
+### Milestone 3
+
+##### Milestone 3: https://github.com/LIU-HONGYANG/DataMining/tree/master/milestone3
+
+##### Video Tutorial 3: https://www.youtube.com/watch?v=YcFxfNfkmqM
+
+
+
+![Screenshot 2020-05-20 at 17.10.56](https://tva1.sinaimg.cn/large/007S8ZIlgy1gez2ftu8udj30si106wm7.jpg)
