@@ -128,11 +128,11 @@ Video: https://www.youtube.com/watch?v=YcFxfNfkmqM
 
 
 
-Milestone 4: 
+Milestone 4:  https://github.com/LIU-HONGYANG/DataMining/tree/master/milestone4
 
 
 
-Video: 
+Video:  https://www.youtube.com/watch?v=-M9HRqvs-Ho&feature=youtu.be
 
 
 
