@@ -66,7 +66,7 @@ ___
 
 
 
-Lab 1: https://github.com/LIU-HONGYANG/DataMining/blob/master/Lab1/LIUHONGYANG-17201091.ipynb
+Lab 1: https://github.com/LIU-HONGYANG/DataMining/tree/master/Lab2
 
 
 
@@ -76,11 +76,11 @@ ___
 
 
 
-##### Lab 1
+##### Lab 2
 
 
 
-Lab 1: https://github.com/LIU-HONGYANG/DataMining/tree/master/Lab2
+Lab 2: https://github.com/LIU-HONGYANG/DataMining/tree/master/Lab2
 
 
 
