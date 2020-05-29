@@ -20,7 +20,7 @@ ___
 
 
 
-Milestone 2: https://github.com/LIU-HONGYANG/DataMining/blob/master/milestone2/milestone2.md
+Milestone 2: https://github.com/LIU-HONGYANG/DataMining/tree/master/milestone2
 
 
 
@@ -36,7 +36,7 @@ Video: https://drive.google.com/file/d/18vyKY6-kyZlftohUxmn7V6H6wn8nmkAI/view
 
 
 
-##### Procudures:
+##### Procedures and Result:
 
 
 

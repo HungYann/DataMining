@@ -96,7 +96,7 @@ ___
 
 
 
-Milestone 2: https://github.com/LIU-HONGYANG/DataMining/blob/master/milestone2/milestone2.md
+Milestone 2: https://github.com/LIU-HONGYANG/DataMining/tree/master/milestone2
 
 
 
