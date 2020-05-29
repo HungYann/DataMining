@@ -76,6 +76,18 @@ ___
 
 
 
+##### Lab 1
+
+
+
+Lab 1: https://github.com/LIU-HONGYANG/DataMining/tree/master/Lab2
+
+
+
+___
+
+
+
 ##### Milestone 1
 
 
@@ -137,4 +149,6 @@ Video:  https://www.youtube.com/watch?v=-M9HRqvs-Ho&feature=youtu.be
 
 
 ---
+
+
 
