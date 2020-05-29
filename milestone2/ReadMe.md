@@ -42,3 +42,8 @@ LOAD data inpath '/usr/oilCrawl' into table oilCrawl;
 select * from oilCrawl
 ```
 
+
+
+
+
+![results-screenshot](https://tva1.sinaimg.cn/large/00831rSTgy1gd2w96zc4ij30wk0lq43g.jpg)

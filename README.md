@@ -2,70 +2,99 @@
 
 
 
-### 1.Assignemnt Title
+##### Introduction
 
-> Introduction
+
 
 ![image-20200313143244318](https://tva1.sinaimg.cn/large/00831rSTgy1gcsafj84etj311y0sggr3.jpg)
 
-> Title
-
-   Monitoring the oil price, correlate with the currency exchanges, and predict what will be the oil price
 
 
-> Participants:
+- Title
 
-- 17043640/1 Gunasegarran
-
-- 17201091/1 LIU,HONGYANG
+Monitoring the oil price, correlate with the currency exchanges, and predict what will be the oil price
 
 
 
-### 2.Milestone 1
+- Participants
+
+  17201091/1 LIU,HONGYANG
+
+  17043640/1 Gunasegarran
 
 
 
-> Code
-
-[oilCrawl](https://github.com/LIU-HONGYANG/DataMining/blob/master/milestone1/oilCrawl/oilCrawl.py)
-
-[currencyCrawl](https://github.com/LIU-HONGYANG/DataMining/blob/master/milestone1/currencyCrawl/currencyCrawl.py)
-
-[goldCrawler](https://github.com/LIU-HONGYANG/DataMining/blob/master/milestone1/goldCrawler/goldCrawler.py)
+##### Assignment
 
 
 
+> Online assessment
 
-> Video
 
-[milestone1](https://drive.google.com/file/d/1KrrsCMB0a2NQ_mDKLDcw9Ky1hAwy11aB/view)
+
+Online assessment: 
+
+https://github.com/LIU-HONGYANG/DataMining/tree/master/data_cleaning_assignment_assignment
 
 
 
 
 
-### 3. Milestone 2
+> Mid term test
 
 
 
-##### Introduction https://github.com/LIU-HONGYANG/DataMining/blob/master/milestone2/milestone2.md
-
-##### Video https://drive.google.com/file/d/18vyKY6-kyZlftohUxmn7V6H6wn8nmkAI/view
-
-
-
-![results-screenshot](https://tva1.sinaimg.cn/large/00831rSTgy1gd2w96zc4ij30wk0lq43g.jpg)
+Mid term test:
 
 
 
 
 
-### Milestone 3
-
-##### Milestone 3: https://github.com/LIU-HONGYANG/DataMining/tree/master/milestone3
-
-##### Video Tutorial 3: https://www.youtube.com/watch?v=YcFxfNfkmqM
+> Lab 1
 
 
 
-![Screenshot 2020-05-20 at 17.10.56](https://tva1.sinaimg.cn/large/007S8ZIlgy1gez2ftu8udj30si106wm7.jpg)
+Lab 1:
+
+
+
+> Milestone 1
+
+
+
+Milestone 1:
+
+https://github.com/LIU-HONGYANG/DataMining/tree/master/milestone1
+
+Video:
+
+https://drive.google.com/file/d/1KrrsCMB0a2NQ_mDKLDcw9Ky1hAwy11aB/view
+
+
+
+
+
+> Milestone 2
+
+
+
+Milestone 2: 
+
+https://github.com/LIU-HONGYANG/DataMining/blob/master/milestone2/milestone2.md
+
+Video:
+
+ https://drive.google.com/file/d/18vyKY6-kyZlftohUxmn7V6H6wn8nmkAI/view
+
+
+
+> Milestone 3
+
+
+
+Milestone 3: https://github.com/LIU-HONGYANG/DataMining/tree/master/milestone3
+
+Video: https://www.youtube.com/watch?v=YcFxfNfkmqM
+
+
+
