@@ -1,0 +1,30 @@
+Lab 2
+
+1. Prequisite
+Perform the following steps before trying the lab test 2:
+
+Import pandas as "pd" and load the house price dataset into "df".
+Print dataset information to refresh your memory.
+Run preprocess_data function on the dataframe to perform preprocessing steps 
+discussed last week (lab 1 dataset).
+
+
+2. Data Partitioning
+Perform following operations and answer the following questions:
+
+a) Describe training, validation and test dataset. 
+b) What is the purpose for each of these split?
+c) What is k-fold cross validation? 
+d) What is the advantage and disadvantage of k-fold CV compared to normal 
+training/test/validation method?
+
+3. Decision Tree
+Perform the following operations and answer the question.
+
+a) Import and build a decision tree classifier. 
+b) Set the random state to 0 to ensure your result is similar with the answers. 
+c) Fit it against the training data.
+d) What is the performance of the model against training data? 
+e) How about against the test data? Do you see any indication of overfitting here?
+f) What are the top 5 most important features in this model?
+g) Visualise the structure of your decision tree. Can you identify characteristics of important features?
