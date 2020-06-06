@@ -66,7 +66,7 @@ ___
 
 
 
-Lab 1: https://github.com/LIU-HONGYANG/DataMining/tree/master/Lab2
+Lab 1: https://github.com/LIU-HONGYANG/DataMining/tree/master/Lab1
 
 
 
