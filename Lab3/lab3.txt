@@ -1,0 +1,19 @@
+0. Prequisite
+Perform the following steps before trying the exercises:
+
+a) Import pandas as "pd" and load the lab1 dataset into "df".
+b) Print dataset information to refresh your memory.
+c) Run preprocess_data function on the dataframe to perform preprocessing steps 
+discussed last week.
+d) Split your data into training and test with 70:30 distribution, stratified, random state 0.
+
+
+1. Standardisation and Logistic Regression
+Perform following operations and answer the following questions:
+
+a) What is the difference between logistic regression and linear regression?  
+b) Describe how logistic regression perform its prediction. 
+c) Write code to perform standardisation on your training and test dataset. 
+d) What does standardisation do to your data? How does it benefit your regression model? 
+e) Write code to fit a logistic regression model to your training data. How does it perform on the training and test data? Do you see any indication of overfitting?  
+f) Write code to find the most important features in your model.
