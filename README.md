@@ -88,6 +88,20 @@ ___
 
 
 
+##### Lab 3
+
+
+
+Lab 3: https://github.com/LIU-HONGYANG/DataMining/tree/master/Lab3
+
+
+
+
+
+___
+
+
+
 ##### Milestone 1
 
 
