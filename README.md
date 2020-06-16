@@ -102,6 +102,18 @@ ___
 
 
 
+##### Lab 4
+
+
+
+Lab 4: https://github.com/LIU-HONGYANG/DataMining/tree/master/Lab4
+
+
+
+---
+
+
+
 ##### Milestone 1
 
 
