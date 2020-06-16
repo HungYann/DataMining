@@ -1,0 +1,68 @@
+The lab test 4 for this week introduces you to  association rules mining using Python. You will learn how to preprocess data for association, building the model and evaluate/visualise the result. Different from the algorithms/models introduced in the first half of the semester, the dataset for association mining is transactional. 
+
+In lab2.csv dataset, a bank's marketing department is interested in examining associations between various retail banking services used by almost 8,000 customers. Marketing would like to determining both typical and atypical service combinations as well as the order in which the services were first used.
+
+These requirements suggests association mining - both a market bastket analysis and a sequence analysis. The data for this problem is usually consisted of two variables, a transaction and an item. For each transaction, there is a list of items. Typically, a transaction is a single customer purchase, and the items are the things that were bought in that transcation. An association rule is a statement of the form (item set A) => (item set B).
+
+Unfortunately, sklearn does not provide any implementation of Apriori algorithm to be used in association mining. Do not worry though, one of the strengths of Python is there is a ton of libraries to use for virtually all kinds of task. We will be using apyori library for this task, which can be installed with command:
+
+pip install apyori
+Once your installation is done, we need to perform some data preprocessing on the bank dataset. Firstly, load the data set using pandas.
+
+
+The lab2 data set contains service information for nearly 8,000 customers. There are three variables in the data set:
+
+ACCOUNT: Account number, nominal
+SERVICE: Type of service, nominal
+VISIT: Order of product purchased, ordinal
+
+The lab2 data set has over 32,000 rows. Each row of the data set represents a customer-service combination. Therefore, a single customer can have multiple rows in the data set, and each row represents one of the products he or she owns. The median number of products per customer is three. The 13 products are represented in the data set using the following abbreviations:
+
+ATM - automated teller machine debit card
+AUTO automobile installment loan
+CCRD credit card
+CD certificate of deposit
+CKCRD check/debit card
+CKING checking account
+HMEQLC home equity line of credit
+IRA individual retirement account
+MMDA money market deposit account
+MTG mortgage
+PLOAN personal/consumer installment loan
+SVG saving account
+TRUST personal trust account
+
+As we are looking to generate association rules from items purchased by each account holder, we need to group our accounts and then generate list of all services purchased.
+
+
+
+Now that the transactions table contains all services purchased by each account number, we are ready to build our association rules. apyori's apriori function accepts a number of arguments, mainly:
+
+transactions: list of list of items in transactions (eg. [['A', 'B'], ['B', 'C']]).
+min_support: Minimum support of relations in float percentage. Default 0.1.
+min_confidence: Minimum confidence of relations in float percentage. Default 0.0.
+min_lift: Minimum lift of relations in float percentage. Default 0.0.
+max_length: Max length of the relations. Default None.
+
+We will run our apyori model with our transactions and min_support of 0.05.
+
+
+Now the output might look very weird, and that is fine. You have provided the following function to help you printing it out. You won't explain how it works and it is not essential for your learning objective, but You have included some comments to help you out.
+
+
+The table contains statistics of support, condence and lift for each of the rules.
+
+Consider the rule A ? B. Recall the following:
+
+Support of A ? B is the probability that a customer has both A and B.
+Confidence of A ? B is the probability that a customer has B given that the customer has A.
+Expected confidence (not shown here) of A ? B is the probability that a customer has B.
+Lift of A ? B is a measure of strength of the association. If Lift=2 for the rule A=>B, then a customer having A is twice as likely to have B than a customer chosen at random. Lift is the confidence divided by expected confidence.
+In a typical setting, you would like to view the rules by lift. Sort the rules using code.
+
+
+
+
+
+
+
