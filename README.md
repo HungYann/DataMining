@@ -116,7 +116,11 @@ Lab 4: https://github.com/LIU-HONGYANG/DataMining/tree/master/Lab4
 
 
 
+##### Lab 5
 
+
+
+Lab 5: https://github.com/LIU-HONGYANG/DataMining/tree/master/Lab5
 
 
 
