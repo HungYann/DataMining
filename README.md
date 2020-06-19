@@ -6,7 +6,7 @@
 
 
 
-![image-20200619182413181](https://tva1.sinaimg.cn/large/007S8ZIlgy1gfxru4tpw7j31ak0u040l.jpg)
+![image-20200620000817345](https://tva1.sinaimg.cn/large/007S8ZIlgy1gfy1s0eboaj31he0tmkdc.jpg)
 
 
 
@@ -200,4 +200,4 @@ Milestone 5: https://github.com/LIU-HONGYANG/DataMining/tree/master/milestone5
 
 
 
-Video:  https://www.youtube.com/watch?v=XxIudi5mNPw
+Video: https://drive.google.com/file/d/1irqWasyeMVxZkFKd4gkgEfpxelNjWCCy/view

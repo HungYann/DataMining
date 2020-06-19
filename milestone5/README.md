@@ -28,9 +28,7 @@ ___
 
 Milestone 5: https://github.com/LIU-HONGYANG/DataMining/tree/master/milestone5
 
-Video:  https://www.youtube.com/watch?v=XxIudi5mNPw
-
-
+Video:  https://drive.google.com/file/d/1irqWasyeMVxZkFKd4gkgEfpxelNjWCCy/view
 
 
 

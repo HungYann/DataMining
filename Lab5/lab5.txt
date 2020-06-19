@@ -1,0 +1,66 @@
+This lab test introduces you to clustering  using Python. 
+You will assess how to preprocess data for clustering, building the model and evaluate/visualise the result. 
+The dataset used for clustering is unlabelled. These datasets do not have the label information 
+that is mandatory in predictive data mining.
+
+1. Preparing data for clustering
+For our clustering this lab, we will be using the lab3.csv. This dataset contains the postal code-level summary 
+of the 2000 United States Census. It has 7 variables:
+
+ID: Postal code of the region
+a) LOCX: Region longitude
+b) LOCY: Region latitude
+c) MEANHHSZ: Average household size in the region
+d) MEDHHINC: Median household income in the region
+e) REGDENS: Region population density percentile (1=lowest density, 100 = highest density)
+f) REGPOP: Number of people in the region
+As usual, start by loading the data with pandas.
+
+
+You should have noticed that the RegDens variable is typecasted into the wrong data type. 
+Run .describe() to check it out.
+
+You can see that there are a number of empty strings in this variable. 
+Replace them with nan and typecast it into the correct float data type.
+
+As we learned from the previous lab test, visualisation is a great way to spot data problems 
+within the dataset. Again, we will use seaborn and matplotlib for that purpose. 
+Plot the distribution of the variables using distplot.
+
+The last two distplots shows anomalies in MeanHHSz and MedHHInc. 
+You will focus on MeanHHSz for now. You could "zoom in" on the distribution by increasing the number of bins.
+
+
+It is apparent that many of the records are valued close to zero, and it seems very unlikely for 
+ an household to have less than 1 member (need more than 1 person to build a family, right?). 
+This suggests a data problem with this variable. As mentioned before,
+ the MedHHInc also has numerous errorneous values. There is a chance that these anomalies are related. 
+You could explore this relation using FaceTGrid.
+
+FacetGrid shows that errorneous data in MeanHHSz are correlated with errorneous data in other features. 
+This serves as a good reason to eliminate all rows with errorneous MeanHHSz.
+
+
+2. Building your first K-means clustering
+Now You are set to build our clustering model. Just before you jump in the models, 
+let's determine the objective of this clustering process first. There are a number of good grouping objectives 
+that you can apply in this dataset. You could cluster them based on location (LocX and LocY), 
+demographic characteristics or both. For this lab test, You would like to focus on demographic characteristics.
+
+Thus, you will use MedHHInc, MeanHHSz and RegDens and drop the rest of the features.
+ You might wonder why RegPop is discarded. First, it is a data about number of people in an area, 
+which is already covered by RegDens. Secondly, RegPop is highly influenced by the actual size of the region, 
+an information you do not have. In comparing regions using their demographic information, 
+it is more accurate to use RegDens.
+
+
+3. Understanding and Visualising Your Clustering Model
+You will dive deeper into our clustering model. A great way to start understanding you clustering results 
+is to visualise the value distribution in you dataset. You have done this in a very limited way by printing
+the values of centroids.
+
+To gain an even better view on how the clusters are spread out in the dataset, 
+you could use seaborn's pairplot. Before that, you will use the trained clustering model to 
+assign each record in our X with a cluster ID.
+
+
