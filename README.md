@@ -6,13 +6,15 @@
 
 
 
-![image-20200313143244318](https://tva1.sinaimg.cn/large/00831rSTgy1gcsafj84etj311y0sggr3.jpg)
+![image-20200619182413181](https://tva1.sinaimg.cn/large/007S8ZIlgy1gfxru4tpw7j31ak0u040l.jpg)
+
+
 
 
 
 > Title
 
-Monitoring the oil price, correlate with the currency exchanges, and predict what will be the oil price
+Monitoring the oil price, correlate with the gold price, and predict what will be the oil price
 
 
 
