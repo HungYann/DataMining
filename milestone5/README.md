@@ -6,13 +6,17 @@ WQD 7005 - Data Mining Continue Assessment
 
 
 
+##### Dash-Flask APP   Website:https://mighty-ridge-02940.herokuapp.com/
+
+
+
 ##### Participants
 
-- Dash-Flask APP 
+
 
 - 17201091/1 LIU,HONGYANG
 
-  
+
 
 ___
 
@@ -22,25 +26,15 @@ ___
 
 
 
-
-
-
-
-
-
 Milestone 5: https://github.com/LIU-HONGYANG/DataMining/tree/master/milestone5
 
-
-
-Website:https://mighty-ridge-02940.herokuapp.com/
-
-
-
-Video:  https://www.youtube.com/watch?v=-M9HRqvs-Ho&feature=youtu.be
+Video:  https://www.youtube.com/watch?v=XxIudi5mNPw
 
 
 
-Dataset: 
+
+
+>  Dataset: 
 
 oilData.csv & goldData.csv
 
@@ -48,7 +42,7 @@ oilData.csv & goldData.csv
 
 
 
-Data Visualization:
+>  Data Visualization:
 
 ![image-20200619172150029](https://tva1.sinaimg.cn/large/007S8ZIlgy1gfxq14l39pj31yg0mataz.jpg)
 

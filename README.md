@@ -116,6 +116,14 @@ Lab 4: https://github.com/LIU-HONGYANG/DataMining/tree/master/Lab4
 
 
 
+
+
+
+
+___
+
+
+
 ##### Milestone 1
 
 
@@ -180,3 +188,16 @@ Video:  https://www.youtube.com/watch?v=-M9HRqvs-Ho&feature=youtu.be
 
 
 
+##### Lab 5
+
+
+
+Website:https://mighty-ridge-02940.herokuapp.com/
+
+
+
+Milestone 5: https://github.com/LIU-HONGYANG/DataMining/tree/master/milestone5
+
+
+
+Video:  https://www.youtube.com/watch?v=XxIudi5mNPw
