@@ -1,0 +1,24 @@
+,pro_cat_code,pro_cat,prod_subcat_code,prod_subcat
+0,1,Clothing,4,Mens
+1,1,Clothing,1,Women
+2,1,Clothing,3,Kids
+3,2,Footwear,1,Mens
+4,2,Footwear,3,Women
+5,2,Footwear,4,Kids
+6,3,Electronics,4,Mobiles
+7,3,Electronics,5,Computers
+8,3,Electronics,8,Personal Appliances
+9,3,Electronics,9,Cameras
+10,3,Electronics,10,Audio and video
+11,4,Bags,1,Mens
+12,4,Bags,4,Women
+13,5,Books,7,Fiction
+14,5,Books,12,Academic
+15,5,Books,10,Non-Fiction
+16,5,Books,11,Children
+17,5,Books,3,Comics
+18,5,Books,6,DIY
+19,6,Home and kitchen,2,Furnishing
+20,6,Home and kitchen,10,Kitchen
+21,6,Home and kitchen,11,Bath
+22,6,Home and kitchen,12,Tools
